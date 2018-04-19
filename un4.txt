@@ -8,5 +8,6 @@
 <p>I love to Coding, Hacking , and repeat it.</p>
 <p>and.... Hmm Nothing on me :)  .</p>
 <p>If you wanna contact me ...
-    <a href="https://fb.me/un4ckn0wl3z">Facebook</a> and
-    <a href="https://haxtivitiez.wordpress.com/">Haxtivitiez (Private)</a>.</p>
+    <a href="https://fb.me/un4ckn0wl3z" target="_blank" >Facebook</a> and
+    <a href="https://haxtivitiez.wordpress.com/" target="_blank" >Haxtivitiez (Private)</a>.
+    or visit my Garbage development project on >> <a href="https://github.com/haxtivitiez" target="_blank">GitHub</a> </p>
