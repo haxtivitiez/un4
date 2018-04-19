@@ -1,15 +1,12 @@
-<span id="a">un4ck0wl3z @haxtivitiez</span>:
+<span id="a">un4ck0wl3z@haxtivitiez</span>:
 <span id="b">~</span>
 <span id="c">$</span> cat un4.txt
 <br/>
 <br/> Hi, I'm Anuwat Khongchuai.
 
 <p>AKA un4ck0wl3z or Un4 , I'm just a person who interested in Software Development and Computer Security .</p>
-
 <p>I love to Coding, Hacking , and repeat it.</p>
-
 <p>and.... Hmm Nothing on me :)  .</p>
-
 <p>If you wanna contact me ...
     <a href="https://fb.me/un4ckn0wl3z">Facebook</a> and
     <a href="https://haxtivitiez.wordpress.com/">Haxtivitiez (Private)</a>.</p>
