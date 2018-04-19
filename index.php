@@ -21,7 +21,7 @@ THE SOFTWARE.
 --> 
 <html> 
 <head> 
-<title>Jeff Weisbein</title> 
+<title>Hack the Planet</title> 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
 <style type="text/css"> 
 	body {
